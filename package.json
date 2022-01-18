@@ -1,0 +1,10 @@
+{
+  "name": "com.cibodevz.uniblazor",
+  "displayName": "UniBlazor",
+  "description": "",
+  "version": "0.0.1",
+  "unity": "2021.2",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.2"
+  }
+}
